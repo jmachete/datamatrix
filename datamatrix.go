@@ -14,7 +14,7 @@ import (
 
 func main() {
 
-	skus := [232]string{
+	skus := [231]string{
 		"ACUC-A-AMARELO-SID-10X1KG",
 		"ACUC-B-DCG-SID-10X1KG",
 		"ACUC-ICING-SID-1X10KG",
@@ -175,7 +175,6 @@ func main() {
 		"CARA-D-NATA-PEN-15KG",
 		"REBU-D-MENTOL-PEN-15KG",
 		"REBU-D-MEL-PEN-15KG",
-		"PAST-1KG",
 		"LEIT-1-MEIO-GOR-SER-6X1LT",
 		"LEIT-CHOCOLAT-UCA-1X24UN",
 		"LEIT-CONDENSA-NES-12X370GR",
